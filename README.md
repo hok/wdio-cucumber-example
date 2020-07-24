@@ -7,4 +7,7 @@ This repo contains a basic example on how to setup Webdriver.io version 6 using 
 ```
 $ yarn install
 $ yarn test
+
+# To open a test report
+$ yarn run allure open
 ```
